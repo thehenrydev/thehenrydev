@@ -11,6 +11,8 @@
     <a href="mailto:henry@thehenry.dev">Email</a>
 </p>
 
+<p>Hey there! I'm an aspiring full stack developer, wanting to code video games. I'm obsessed with F1, and when I'm not in school or coding, I'm most likely doing something F1 related. I'm currently learning backend development such as TypeScript and APIs. Feel free to check out my profile below!</p>
+
 <h2>My Tech Stack</h2>
 <table>
     <thead>
