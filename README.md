@@ -37,4 +37,9 @@
     </tbody>
 </table>
 
+<img src="./profile/top-langs.svg">
+
+<h2>Statistics</h2>
+<img src="./profile/stats.svg">
+
 <p><strong>Made with ❤️ in Britain.</strong></p>
