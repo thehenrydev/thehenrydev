@@ -39,7 +39,17 @@
 
 <img src="./profile/top-langs.svg">
 
+<h2>About My Work</h2>
+<p>I have been working hard on many projects since the start of my time on GitHub in 2026. You can see my featured projects down below!</p>
+
+<p><b>🏎️ <a href="https://github.com/thehenrydev/Grid-Status">Grid Status</a></b> - An open source automatic GitHub Status updater for your favourite Formula 1 driver.</p>
+
+<p>I'm currently exploring backend development inside TypeScript, and learning about APIs.</p>
+
 <h2>Statistics</h2>
 <img src="./profile/stats.svg">
+
+<h2>Collaborate!</h2>
+<p>Want to collaborate with me? I'm interested in projects, collaborations, and just talking. Shoot me an email or send me a DM! I usually respond within a day.</p>
 
 <p><strong>Made with ❤️ in Britain.</strong></p>
